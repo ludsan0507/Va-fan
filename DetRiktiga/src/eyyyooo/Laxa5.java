@@ -1,6 +1,6 @@
 package eyyyooo;
 
-public class Läxa5 {
+public class Laxa5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -64,13 +64,14 @@ public class Läxa5 {
 		char x = 'X';
 		char y = ' ';
 		int ha = 1;
-		for (int i = 0; i <= steps; i++) {
-			for (int j2 = ha; j2<=steps; i++) {
-				System.out.print(" ");
+		for (int i = 1; i <= steps; i++) {
+			for (int j = ha; j < steps; j++) {
+				System.out.print(y);
 			}
-			for (int j = 1; j<=i; j++) {
+			for (int j2 = 1; j2 <= i; j2++) {
 				System.out.print(x);
 			}
+
 			ha++;
 			System.out.println();
 		}
