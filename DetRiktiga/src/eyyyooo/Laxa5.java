@@ -4,12 +4,12 @@ public class Laxa5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		/*lol();
+		lol();
 		System.out.println(max(20, 30));
 		count(100);
 		System.out.println(kelvin(37));
 		System.out.println(fahrenheit(100));
-		*/
+
 		stair(4);
 	}
 
