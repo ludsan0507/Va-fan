@@ -1,6 +1,6 @@
 package eyyyooo;
 
-public class Läxa5 {
+public class Laxa5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
